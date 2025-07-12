@@ -3,9 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7768E&height=200&section=header&text=Hi%20👋%20I'm%20Gopika!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7768E&center=true&width=500&lines=👩‍💻+CSE+@+IIT+Mandi;⚡+AR+%7C+AI+%7C+Cloud+Explorer;🎯+Tech+for+Inclusion+%26+Impact;🚀+Hackathon+Lover+%7C+Builder+%7C+Mentor" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8BE9FD&center=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+CSE+@+IIT+Mandi;%E2%9A%A1+AR+%7C+AI+%7C+Cloud+Explorer;%F0%9F%8E%AF+Tech+for+Inclusion+%26+Impact;%F0%9F%9A%80+Hackathon+Lover+%7C+Builder+%7C+Mentor" alt="Typing SVG" />
+</p>
+
 
 
 
