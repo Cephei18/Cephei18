@@ -1,91 +1,84 @@
-<!-- Profile Banner -->
+<!-- ✨ Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7768E&height=200&section=header&text=Hi%20👋%20I'm%20Gopika!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F44D3&height=200&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Gopika!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8BE9FD&center=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+CSE+@+IIT+Mandi;%E2%9A%A1+AR+%7C+AI+%7C+Cloud+Explorer;%F0%9F%8E%AF+Tech+for+Inclusion+%26+Impact;%F0%9F%9A%80+Hackathon+Lover+%7C+Builder+%7C+Mentor" alt="Typing SVG" />
-</p>
-
-
-
-
----
-
-### 💫 About Me
-
-- 🎓 CSE Pre-final Year @ IIT Mandi  
-- 💡 Passionate about building tech that promotes **empathy, inclusion, and neurodiversity awareness**  
-- 🌟 First IITian from my village | **Community Mentor & Tech Educator**  
-- 🚀 Exploring: **Cloud, Generative AI, Augmented Reality**  
-- 🏆 Selected for:
-  - **AnitaB Mentorship Program**
-  - **Google Developer Groups Facilitator**
-  - **SheFi Scholar 2025**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nextjs,nodejs,mongodb,firebase,figma,git,vscode,gcp" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D49DE9&center=true&width=435&lines=CSE+%F0%9F%93%9A+@+IIT+Mandi;Tech+%F0%9F%94%A5+for+Inclusion+%26+Impact;Cloud+%E2%9D%84%EF%B8%8F+AI+%F0%9F%A7%BE+AR+%F0%9F%8C%8E+Explorer;Mentor+%F0%9F%92%AA+Builder+%F0%9F%9A%80+Hackathoner" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🌸 About Me
 
-| 🧠 **Project** | 🌟 **Description** |
-|---------------|------------------|
-| [NeuroSaarthi](#) | AR+AI experience simulating Dyslexia, ADHD, and Autism. Built for Google Solution Challenge, SIH Finalist. |
-| [Haptic Glove](#) | Gesture-controlled glove with haptic feedback for Indian Air Force. Built under DRDO mentorship. |
-| [HostelHelp](#) | Real-world problem-solver for IIT Mandi’s maintenance & lost+found. |
-| [Botanicure](#) | ML-based plant disease detection using image input. |
+- 🎓 CSE Pre-final Year @ **IIT Mandi**
+- 💜 Building tech that reflects **empathy, accessibility & neurodiversity**
+- ✨ **Community Mentor**, **Women in Tech Advocate**, and **curious explorer**
+- ☁️ Diving deep into **Cloud**, **Gen AI**, and **Augmented Reality**
+- 🚀 Selected for:
+  - 🦸‍♀️ **AnitaB Mentorship Program**
+  - 🌐 **Google Developer Groups Facilitator**
+  - 💼 **SheFi Scholar '25**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cephei18&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cephei18&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cephei18&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nextjs,nodejs,mongodb,firebase,figma,git,vscode,gcp&theme=light" />
 </p>
 
 ---
 
-### 🌐 Let's Connect!
+## 🧠 Featured Projects
+
+| ✨ Project | 🔍 Description |
+|-----------|----------------|
+| [`NeuroSaarthi`](#) | AR + AI experience simulating Dyslexia, ADHD & Autism. Built for Google Solution Challenge | Finalist @ SIH |
+| [`HostelHelp`](#) | Maintenance + Lost & Found App for IIT Mandi | Real-world impact |
+| [`Botanicure`](#) | ML-powered plant disease detector via image input | Precision agriculture vibes 🌱 |
+| [`Haptic Glove`](#) | Gesture-based glove with haptic feedback for IAF | Built under DRDO mentorship 🛡️ |
+
+---
+
+## 📊 GitHub Vibes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cephei18&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cephei18&theme=radical&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cephei18&layout=compact&theme=radical" width="50%" />
+</p>
+
+---
+
+## 🌐 Let’s Link Up
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gopika-chauhan18/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%239F44D3?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gopika.email@example.com">
+  <a href="mailto:gopikachauhan1819@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://g.dev/gopikag" target="_blank">
-    <img src="https://img.shields.io/badge/-g.dev%2Fgopikag-%234285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 💖 Fun Facts
+## 💖 Fun Stuff About Me
 
-- 🧠 I mentor underprivileged girls in tech and STEM  
-- ✍️ I love simplifying complex ideas and turning them into visual demos  
-- 🎨 I sketch, write, and play with UI when I’m not coding
+- 🗣️ Fluent in 8 languages — 2 learned by just vibing with roommate rants 😅  
+- 🎤 I talk so much I became my community’s **social media lead** (talk + tech = 💥)  
+- 📺 I will fight you (intellectually) over how Sheldon Cooper ≠ Shaun Murphy — fight me 💅  
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cephei18&theme=dracula&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cephei18&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7768E&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F44D3&height=120&section=footer"/>
 </p>
-
