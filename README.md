@@ -11,17 +11,13 @@
 
 ## 💫 About Me
 
+> 🧠 *“I don't just build projects — I craft **tech that feels**.”*
+
 <div align="center">
   <img src="https://img.shields.io/badge/IIT%20Mandi-%237F00FF?style=for-the-badge&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Builder-%23E100FF?style=for-the-badge&logo=wix&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20x%20GenAI%20x%20AR-%23663399?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTllZ2Z1bGNoc2o2ODFsbndjd2k2MG1ka2UwMmxtNnF3ZWxmcXY5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" width="350" />
-</p>
-
-> 🧠 *“I don't just build projects — I craft **tech that feels**.”*
 
 ### 🌟 I'm Gopika — a builder with a brain full of ideas and a heart full of purpose:
 
@@ -29,13 +25,17 @@
 - 💜 Advocate for **Empathy, Neurodiversity & Inclusion**  
 - 👓 Working at the edge of **Cloud**, **GenAI**, and **Augmented Reality**  
 - 🛡️ Built a **gesture-controlled Haptic Glove** for the **Indian Air Force**  
-- 🎤 Mentor, speaker, and the one who's *always* “got this idea...” 😅  
+- 🎤 Mentor, speaker, and the one who's *always* “got this idea...” 😅
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTllZ2Z1bGNoc2o2ODFsbndjd2k2MG1ka2UwMmxtNnF3ZWxmcXY5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" width="350" />
+</p>
 
 ### 🚀 Highlights:
-- 🧚‍♀️ **AnitaB Mentorship Program**
-- 🌐 **Google Developer Groups Facilitator**
-- 🧠 **SheFi Scholar '25**
-- 💬 Leads tech talks, workshops & community events across India  
+-  **AnitaB Mentorship Program**
+-  **Google Developer Groups Facilitator**
+-  **SheFi Scholar '25**
+-  Leads tech talks, workshops & community events across India  
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=9F44D3&center=true&vCenter=true&width=550&lines=First+IITian+from+my+village.;Using+tech+to+amplify+empathy.;Not+just+code+—+a+cause.;Let%27s+build+for+the+quiet+ones."/>
