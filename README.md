@@ -37,9 +37,6 @@
 -  **SheFi Scholar '25**
 -  Leads tech talks, workshops & community events across India  
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=9F44D3&center=true&vCenter=true&width=550&lines=First+IITian+from+my+village.;Using+tech+to+amplify+empathy.;Not+just+code+—+a+cause.;Let%27s+build+for+the+quiet+ones."/>
-</div>
 
 
 ## 🛠️ Tech Stack
